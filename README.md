@@ -108,5 +108,3 @@ Focuses on:
 ## Author
 
 Jithesh Lal
-
-Jithesh Lal
