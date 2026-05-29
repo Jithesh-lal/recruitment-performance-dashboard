@@ -1,0 +1,201 @@
+Gender,Age,Education,Work Experience,Position,Position Lead time ,Positon Processing time,Recruitment Resource,Method of Selection,Training undertaken,Performance,Tenure,Recruitment Cost ,Job Satisfaction,Recruitment cost per resource (In Rs),Cost of Hire Per Position Cost (in Rs)
+Female,Upper,Other,14+,MGR sales,2 Month,2 Week,News Paper 3,Assessment,Yes,High,Yes,Low,Medium,100,1200
+Male,Upper,Other,14+,MGR sales,2 Month,2 Week,News Paper 1,Assessment,Yes,Low,Yes,Low,High,50,1200
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Female,Upper,PG,14+,MGR HR,2 Month,2 Week,News Paper 3,Personal Interview,Yes,High,Yes,Low,Medium,100,900
+Female,Upper,PG,12+,MGR sales,2 Month,2 Week,News Paper 3,Assessment,Yes,High,No,Low,High,100,1000
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Male,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,News Paper 3,Group Interview,Yes,High,Yes,Low,High,100,900
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,230
+Male,Young,PG,>1,HR Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,100
+Female,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,News Paper 3,Group Interview,Yes,High,Yes,Low,High,100,900
+Male,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,News Paper 3,Group Interview,Yes,High,Yes,Low,High,100,900
+Male,Young,PG,>1,HR Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,100
+Male,Young,PG,>1,Sales man,3 Month,4 Week,Campus,Test,No,High,No,Medium,Low,85,150
+Male,Young,PG,>1,HR Trainee,3 Month,4 Week,Campus,Test,No,High,No,Medium,Medium,85,100
+Male,Young,PG,>1,Sales man,3 Month,4 Week,Campus,Test,No,Low,No,Medium,Medium,85,150
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,Low,Yes,Medium,Medium,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,Low,Yes,Medium,Medium,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,Medium,Yes,Medium,Medium,85,230
+Female,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,News Paper 3,Group Interview,Yes,High,Yes,Low,High,100,900
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Campus,Test,No,Medium,Yes,Medium,Medium,85,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Reference,Test,No,Medium,Yes,Low,High,35,230
+Female,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,Consultancy,Group Interview,Yes,High,Yes,High,High,150,900
+Female,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Medium,No,High,Medium,150,900
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Reference,Test,No,Medium,Yes,Low,High,35,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,Reference,Test,No,High,Yes,Low,High,35,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,E-Recruitment,walk-In,No,High,No,Medium,Medium,100,230
+Male,Upper,UG,10+,ASST MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,900
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,E-Recruitment,walk-In,No,High,No,Medium,Medium,100,230
+Female,Upper,UG,12+,MGR sales,2 Month,2 Week,Consultancy,Assessment,Yes,High,Yes,High,Medium,150,1000
+Female,Middle,UG,8+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,750
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,E-Recruitment,walk-In,No,High,No,Medium,High,100,230
+Female,Middle,UG,8+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,750
+Female,Middle,UG,8+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,750
+Male,Upper,UG,12+,MGR sales,2 Month,2 Week,Job Portal,Assessment,Yes,Medium,Yes,High,Medium,120,1000
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,E-Recruitment,walk-In,No,High,No,Medium,High,100,230
+Female,Middle,UG,8+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,750
+Female,Middle,UG,8+,MGR HR,2 Month,2 Week,Reference,Personal Interview,No,High,Yes,Low,High,35,750
+Male,Middle,UG,8+,MGR HR,2 Month,2 Week,Reference,Personal Interview,No,Medium,Yes,Low,High,35,750
+Female,Middle,UG,8+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,Yes,Low,High,35,800
+Male,Middle,UG,8+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,Yes,Low,High,35,800
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,E-Recruitment,walk-In,No,High,Yes,Medium,High,100,230
+Male,Young,UG,>1,Sales Trainee,3 Month,4 Week,E-Recruitment,walk-In,No,High,Yes,Medium,High,100,230
+Male,Young,PG,>1,Sales man,3 Month,4 Week,E-Recruitment,Test,No,High,Yes,Medium,High,100,150
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Male,Upper,UG,12+,MGR sales,2 Month,2 Week,Job Portal,Assessment,Yes,High,Yes,High,Low,120,1000
+Male,Young,PG,>1,Sales man,3 Month,4 Week,E-Recruitment,Test,No,High,Yes,Medium,High,100,150
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,600
+Male,Young,PG,1,HR ASST,2 Month,2 Week,E-Recruitment,Test,Yes,Low,Yes,Medium,High,100,360
+Male,Young,PG,1,HR ASST,2 Month,2 Week,E-Recruitment,Test,Yes,Medium,Yes,Medium,High,100,360
+Female,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Test,Yes,High,Yes,Low,High,35,600
+Female,Middle,UG,8+,MGR sales,2 Month,2 Week,Reference,Assessment,No,High,No,Low,Low,35,800
+Female,Middle,UG,8+,MGR sales,2 Month,2 Week,Reference,Assessment,No,High,No,Low,Low,35,800
+Female,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,Yes,Low,High,35,700
+Male,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,No,Low,Low,35,700
+Female,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,No,Low,Low,35,700
+Male,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,Yes,Low,High,35,700
+Male,Upper,UG,12+,MGR sales,2 Month,2 Week,Job Portal,Assessment,Yes,Medium,Yes,High,Low,120,1000
+Female,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,Assessment,No,Medium,Yes,Low,High,35,700
+Male,Young,PG,1,HR ASST,2 Month,2 Week,E-Recruitment,Test,Yes,Medium,No,Medium,Low,100,360
+Male,Young,Other,1,Sales man,3 Month,4 Week,E-Recruitment,Test,Yes,Medium,No,Medium,Low,100,190
+Female,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,walk-In,Yes,Low,Yes,Low,High,35,700
+Male,Young,Other,1,Sales man,3 Month,4 Week,Campus,Test,Yes,Low,No,Medium,Low,85,190
+Female,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,walk-In,Yes,High,Yes,Low,High,35,700
+Female,Middle,UG,6+,MGR sales,2 Month,2 Week,Reference,walk-In,Yes,High,Yes,Low,High,35,700
+Male,Young,Other,1,Sales man,3 Month,4 Week,Campus,Test,Yes,High,No,Medium,Low,85,190
+Female,Middle,UG,6+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,660
+Male,Young,Other,1,Sales man,3 Month,4 Week,Campus,Test,Yes,High,No,Medium,Low,85,190
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,Yes,High,Yes,Medium,High,100,660
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,Yes,High,Yes,Medium,Medium,100,660
+Female,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,Yes,High,Yes,Medium,Medium,100,660
+Female,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,Yes,High,Yes,Medium,Medium,100,660
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,No,Medium,No,Medium,Low,100,660
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,No,High,No,Medium,Low,100,660
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,No,High,No,Medium,Low,100,660
+Female,Middle,PG,8+,MGR HR,2 Month,2 Week,Reference,Group Interview,No,Low,No,Low,Low,35,750
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,No,Medium,Low,100,660
+Male,Upper,UG,12+,ASST MGR HR,2 Month,2 Week,Job Portal,Group Interview,No,Low,Yes,High,Low,120,1200
+Female,Middle,PG,8+,MGR HR,2 Month,2 Week,News Paper 1,Group Interview,No,Low,No,Low,Low,50,750
+Male,Middle,UG,6+,MGR HR,2 Month,2 Week,Reference,Group Interview,Yes,High,No,Low,Low,35,660
+Female,Middle,PG,8+,MGR HR,2 Month,2 Week,News Paper 1,Group Interview,Yes,Low,Yes,Low,Medium,50,750
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,E-Recruitment,Test,Yes,High,No,Medium,Medium,100,600
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,E-Recruitment,Test,Yes,High,No,Medium,Medium,100,600
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,E-Recruitment,Test,Yes,Low,Yes,Medium,High,100,600
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Test,Yes,Medium,Yes,Low,Medium,35,600
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,Reference,Test,Yes,Medium,Yes,Low,Medium,35,600
+Female,Middle,PG,8+,MGR sales,2 Month,2 Week,News Paper 3,walk-In,Yes,High,Yes,Low,Medium,100,800
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,Consultancy,Test,No,Medium,Yes,High,Medium,150,600
+Female,Middle,PG,8+,MGR sales,2 Month,2 Week,News Paper 3,walk-In,Yes,High,Yes,Low,Medium,100,800
+Female,Young,UG,1,HR Trainee,3 Month,4 Week,Campus,Test,Yes,High,No,Medium,Medium,85,200
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,Consultancy,Test,No,Low,Yes,High,Medium,150,600
+Male,Upper,UG,12+,MGR sales,2 Month,2 Week,Job Portal,walk-In,No,High,No,High,High,120,1000
+Female,Young,UG,1,HR Trainee,3 Month,4 Week,Campus,Test,Yes,High,No,Medium,Medium,85,200
+Male,Middle,UG,4+,HR ASST,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Medium,150,600
+Male,Middle,UG,4+,MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Medium,150,520
+Female,Young,UG,1,HR Trainee,3 Month,4 Week,Campus,Test,Yes,High,Yes,Medium,High,85,200
+Female,Young,UG,1,HR Trainee,3 Month,4 Week,Campus,Test,Yes,High,Yes,Medium,High,85,200
+Male,Middle,UG,4+,MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,520
+Male,Middle,UG,4+,MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,520
+Female,Young,UG,2+,Sales man,3 Month,4 Week,E-Recruitment,Personal Interview,No,Low,No,Medium,Medium,100,280
+Female,Young,UG,2+,Sales man,3 Month,4 Week,E-Recruitment,Personal Interview,No,Low,No,Medium,Low,100,280
+Female,Young,UG,2+,Sales man,3 Month,4 Week,E-Recruitment,Personal Interview,Yes,High,No,Low,Low,100,280
+Female,Young,UG,2+,Sales man,3 Month,4 Week,E-Recruitment,Personal Interview,Yes,High,No,Low,Low,100,280
+Female,Young,UG,2+,Foreman,3 Month,3 Week,E-Recruitment,walk-In,Yes,High,Yes,Low,High,100,200
+Male,Middle,UG,4+,MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,520
+Female,Young,UG,2+,Foreman,3 Month,3 Week,E-Recruitment,walk-In,Yes,High,Yes,Low,High,100,200
+Female,Young,UG,2+,Foreman,3 Month,3 Week,E-Recruitment,walk-In,Yes,High,Yes,Low,High,100,200
+Female,Young,UG,2+,Foreman,3 Month,3 Week,Reference,walk-In,Yes,High,Yes,Low,High,35,200
+Male,Middle,UG,4+,MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,520
+Male,Middle,UG,4+,MGR HR,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,520
+Female,Young,UG,2+,Foreman,3 Month,3 Week,Reference,walk-In,Yes,High,Yes,Low,High,35,200
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,No,Low,No,High,Medium,150,6000
+Female,Young,UG,2+,Sales man,3 Month,4 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,280
+Male,Upper,PG,14+,MGR sales,2 Month,2 Week,News Paper 2,walk-In,No,Medium,No,Low,High,75,1200
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,No,Low,Yes,High,Low,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,No,Medium,Yes,High,Low,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Low,150,6000
+Female,Young,UG,2+,Sales man,3 Month,4 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,280
+Female,Young,UG,2+,Sales man,3 Month,4 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,280
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Low,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Low,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Low,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Low,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Medium,150,6000
+Male,Middle,UG,4+,MGR sales,2 Month,2 Week,Consultancy,walk-In,Yes,High,Yes,High,Medium,150,6000
+Male,Middle,PG,8+,MGR sales,2 Month,2 Week,News Paper 3,walk-In,Yes,High,Yes,Low,Medium,100,800
+Female,Young,Other,2+,Foreman,3 Month,3 Week,Reference,walk-In,Yes,High,Yes,Low,High,35,200
+Male,Upper,PG,14+,MGR HR,2 Month,2 Week,News Paper 3,Group Interview,No,High,No,Low,Low,100,900
+Female,Young,Other,2+,Foreman,3 Month,3 Week,Reference,walk-In,Yes,High,Yes,Low,High,35,200
+Male,Middle,PG,8+,MGR sales,2 Month,2 Week,News Paper 3,walk-In,Yes,High,Yes,Low,Medium,100,800
+Male,Middle,PG,8+,MGR sales,2 Month,2 Week,News Paper 3,walk-In,Yes,High,Yes,Low,Medium,100,800
+Male,Middle,PG,8+,MGR sales,2 Month,2 Week,News Paper 3,walk-In,Yes,High,Yes,Low,High,100,800
+Male,Middle,PG,8+,MGR HR,2 Month,2 Week,News Paper 2,Group Interview,No,Medium,Yes,Low,High,75,750
+Female,Young,PG,2+,Sales Executive,3 Month,4 Week,Reference,Group Interview,Yes,Medium,Yes,Low,High,35,250
+Male,Middle,PG,8+,MGR HR,2 Month,2 Week,News Paper 1,Group Interview,No,Low,Yes,Low,High,50,750
+Female,Young,PG,2+,Sales Executive,3 Month,4 Week,Reference,Group Interview,No,Medium,Yes,Low,Low,35,250
+Female,Young,PG,2+,HR ASST,2 Month,2 Week,Reference,Group Interview,No,Medium,Yes,Low,Low,35,440
+Female,Young,PG,2+,HR ASST,2 Month,2 Week,Reference,Group Interview,No,Medium,Yes,Low,Low,35,440
+Male,Middle,PG,8+,MGR HR,2 Month,2 Week,News Paper 1,Group Interview,No,Low,Yes,Low,High,50,750
+Female,Young,PG,2+,HR ASST,2 Month,2 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,440
+Female,Young,PG,2+,Sales Executive,3 Month,4 Week,Consultancy,Group Interview,No,Low,No,High,Low,150,250
+Male,Middle,Other,4+,MGR HR,2 Month,2 Week,Consultancy,Personal Interview,Yes,High,Yes,High,Medium,150,520
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,No,Low,Low,100,750
+Male,Middle,Other,4+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,Medium,35,520
+Male,Middle,Other,4+,MGR HR,2 Month,2 Week,Reference,Personal Interview,Yes,High,Yes,Low,High,35,520
+Male,Middle,Other,4+,MGR HR,2 Month,2 Week,Reference,Personal Interview,No,Medium,Yes,Low,High,35,520
+Male,Middle,Other,4+,MGR HR,2 Month,2 Week,Reference,Personal Interview,No,Medium,Yes,Low,High,35,520
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,Yes,Low,High,100,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,Yes,Low,High,100,750
+Male,Upper,PG,10+,MGR HR,2 Month,2 Week,News Paper 2,Personal Interview,No,Medium,No,Low,Low,75,1000
+Male,Middle,Other,4+,MGR HR,2 Month,2 Week,Reference,Personal Interview,No,Medium,Yes,Low,High,35,520
+Male,Middle,Other,4+,MGR sales,2 Month,2 Week,Reference,Test,No,Medium,No,Low,Low,35,6000
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,Yes,Low,High,100,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,No,Low,Low,100,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Group Interview,Yes,High,Yes,Low,High,100,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,Yes,High,Yes,Low,High,100,750
+Male,Middle,Other,4+,MGR sales,2 Month,2 Week,Reference,Test,No,High,Yes,Low,High,35,6000
+Male,Middle,Other,4+,MGR sales,2 Month,2 Week,Reference,Test,No,High,Yes,Low,High,35,6000
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,No,High,Yes,Low,High,35,220
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,No,High,Yes,Low,High,35,220
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,Yes,High,Yes,Low,High,35,220
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,Yes,High,Yes,Low,High,35,220
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,Yes,High,Yes,Low,High,35,220
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,E-Recruitment,Personal Interview,Yes,High,Yes,Low,Medium,100,750
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,Yes,High,Yes,Low,High,35,220
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Job Portal,Personal Interview,Yes,High,Yes,High,Low,120,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Job Portal,Personal Interview,No,Medium,Yes,High,Low,120,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Job Portal,Personal Interview,No,Medium,No,High,Low,120,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Job Portal,Personal Interview,No,Medium,No,High,Low,120,750
+Male,Middle,Other,4+,Foreman,3 Month,3 Week,Reference,Assessment,Yes,High,Yes,Low,High,35,220
+Male,Middle,Other,8+,MGR sales,2 Month,2 Week,News Paper 1,Test,No,Low,Yes,Low,High,50,800
+Male,Middle,Other,8+,MGR sales,2 Month,2 Week,News Paper 2,Test,Yes,Medium,No,Low,Medium,75,800
+Male,Middle,Other,8+,MGR sales,2 Month,2 Week,News Paper 2,Test,Yes,Medium,No,Low,Medium,75,800
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Job Portal,Personal Interview,No,Medium,No,High,Low,120,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Job Portal,Personal Interview,No,Medium,No,High,Medium,120,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Reference,Personal Interview,No,High,Yes,Low,Low,35,750
+Female,Young,PG,3+,ASST MGR HR,2 Month,2 Week,Reference,Personal Interview,No,High,Yes,Low,Low,35,750
+Female,Young,PG,>1,HR Trainee,3 Month,4 Week,E-Recruitment,Test,No,High,Yes,Low,High,100,100
+Female,Young,PG,>1,HR Trainee,3 Month,4 Week,Campus,Personal Interview,No,Low,Yes,Medium,High,85,100
+Male,Middle,Other,8+,MGR sales,2 Month,2 Week,News Paper 2,Test,Yes,Medium,No,Low,Medium,75,800
+Male,Middle,Other,6+,MGR sales,2 Month,2 Week,Reference,Test,Yes,High,Yes,Low,Medium,35,700
+Female,Young,PG,>1,HR Trainee,3 Month,4 Week,Campus,Personal Interview,No,Low,Yes,Medium,High,85,100
+Male,Middle,Other,6+,MGR sales,2 Month,2 Week,Reference,Test,Yes,High,Yes,Low,Medium,35,700
+Female,Young,PG,>1,HR Trainee,3 Month,4 Week,Reference,Personal Interview,No,High,No,Low,High,35,100
+Female,Young,PG,>1,HR Trainee,3 Month,4 Week,Reference,Personal Interview,No,High,Yes,Low,High,35,100
+Female,Young,PG,>1,Sales man,3 Month,4 Week,Reference,Personal Interview,No,High,Yes,Low,High,35,150
+Female,Young,PG,>1,Sales man,3 Month,4 Week,Reference,Test,No,High,Yes,Low,High,35,150
+Male,Middle,Other,6+,MGR sales,2 Month,2 Week,Reference,Test,Yes,High,Yes,Low,High,35,700
+Male,Middle,Other,6+,MGR sales,2 Month,2 Week,News Paper 1,Test,No,Low,Yes,Low,High,50,700
+Male,Middle,Other,6+,MGR sales,2 Month,2 Week,News Paper 2,Test,No,Medium,Yes,Low,High,75,700
+Male,Middle,Other,6+,MGR sales,2 Month,2 Week,News Paper 2,Test,No,Medium,Yes,Low,High,75,700
